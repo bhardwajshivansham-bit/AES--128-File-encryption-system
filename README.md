@@ -17,7 +17,7 @@
 
 ## Note
 
-This project demonstrates the implementation of AES-128 symmetric encryption for securing digital files. Done with a bit of AI assistance.
+This project demonstrates the implementation of AES-128 symmetric encryption for securing digital files. Done with a bit of YouTube and AI assistance.
 
 ## Author
 
